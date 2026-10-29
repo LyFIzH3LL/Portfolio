@@ -2,7 +2,7 @@
 
 Personal portfolio of Snahashis Sarker Arnob, software engineer and AI researcher. It presents research in LLM memory, hyperspectral imaging and NLP, industry experience in full-stack development, selected projects, and a contact form.
 
-**Live site:** [soumikportfolio.vercel.app](https://soumikportfolio.vercel.app)
+**Live site:** [ssarnob-portfolio.vercel.app](https://ssarnob-portfolio.vercel.app)
 
 ## Features
 
