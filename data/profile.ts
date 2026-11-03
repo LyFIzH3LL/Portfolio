@@ -84,17 +84,18 @@ export const work: Job[] = [
   {
     role: "Junior Software Engineer",
     company: "Cloversoft",
-    place: "Khilkhet, Dhaka",
+    place: "Dhaka, Bangladesh",
     period: "Sep 2025 – May 2026",
     points: [
-      "Engineered a service management platform on the MERN stack.",
-      "Worked in Agile Scrum with weekly sprints and GitHub-based version control.",
+      "Built and maintained features for a MERN-stack service management platform, turning client requirements gathered by the project lead into working modules.",
+      "Delivered assigned tasks in weekly Agile Scrum sprints.",
+      "Fixed bugs and shipped changes from client feedback within agreed deliverable timelines.",
     ],
   },
   {
     role: "Junior Web Developer (Intern)",
     company: "Qualifie",
-    place: "Mirpur, Dhaka",
+    place: "Dhaka, Bangladesh",
     period: "Jan 2025 – Jun 2025",
     points: [
       "Managed and optimized JSON data structures that drive dynamic content.",
